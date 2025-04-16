@@ -1,0 +1,1 @@
+// Componente do bloco IA com histórico por ID
